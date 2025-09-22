@@ -10,3 +10,7 @@
    - `infra/`: configurações de infraestrutura
    - `services/`: microserviços
    - `.github/workflows/`: pipelines CI/CD 
+
+
+   ## Board para execução do case
+   - https://github.com/users/kzar1n/projects/1
